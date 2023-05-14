@@ -3,7 +3,7 @@
 ## Here, I have also used to FastAPI to deploy my model.
 
 Requirements:
-fastapi
-uvicorn
-gunicorn==19.9.0
+1. fastapi
+2. uvicorn
+3. gunicorn==19.9.0
 
