@@ -24,4 +24,6 @@ pip install fastapi
 ```
 • Then you will see the url like http://127.0.0.1:8000 , copy it and paste it in your web browser.
 
+• To execute it go on to this url:
 
+http://127.0.0.1:8000/docs
