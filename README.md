@@ -26,4 +26,7 @@ pip install fastapi
 
 • To execute it go on to this url:
 
+```bash
 http://127.0.0.1:8000/docs
+```
+
