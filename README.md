@@ -22,7 +22,11 @@ Note: Make sure that you have installed Fastapi . If not then install by this co
 ```bash
 pip install fastapi
 ```
-• Then you will see the url like http://127.0.0.1:8000 , copy it and paste it in your web browser.
+• Then you will see the url like  
+```bash
+ http://127.0.0.1:8000 
+```
+copy it and paste it in your web browser.
 
 • To execute it go on to this url:
 
